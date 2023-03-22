@@ -7,14 +7,23 @@ The Fashion-MNIST dataset is a collection of images used for computer vision tas
 Here are the 10 categories of clothing items in the Fashion-MNIST dataset:
 
 T-shirt/top
+
 Trouser
+
 Pullover
+
 Dress
+
 Coat
+
 Sandal
+
 Shirt
+
 Sneaker
+
 Bag
+
 Ankle boot
 
  It can be used for various computer vision tasks, such as image classification, object detection, and image segmentation.
